@@ -6,18 +6,21 @@ Used the csv files which showes the ecommerce data regarding the sales of the pr
 Two csv files are used in this project. This is created through Power BI.
 
 **Overall view of the dashboard**
-![Screenshot (1)](https://user-images.githubusercontent.com/79258081/236598097-06e8fbe5-e912-4ec0-9aa7-ae86654dbce1.png)
+
+![Screenshot (1)](https://user-images.githubusercontent.com/79258081/236599787-11e5a190-4801-4991-b016-bf3516c680b8.png)
+
 
 **Quarterly details of the sales**
 
-![Screenshot (2)](https://user-images.githubusercontent.com/79258081/236598102-402767b0-d97a-4d95-9b35-73d41b31b661.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/79258081/236599801-9efb588d-01f1-4659-b9c6-c42baab0cab8.png)
 
-![Screenshot (3)](https://user-images.githubusercontent.com/79258081/236598104-0075842d-3d15-43af-b756-b85a12074f90.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/79258081/236599804-beb20759-5891-4e68-ba5b-a41d9f60959d.png)
 
-![Screenshot (4)](https://user-images.githubusercontent.com/79258081/236598106-e127da94-2a32-4226-aaa3-4b5ce66ebcd5.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/79258081/236599810-a564c68e-03ac-49a2-bec7-b34aa3048834.png)
 
-![Screenshot (5)](https://user-images.githubusercontent.com/79258081/236598109-2d769c73-0578-4ce4-96da-7e25b71d2265.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/79258081/236599817-e9d3c5b9-c255-4fef-a898-b65d6c4158da.png)
 
 
 **Sample state data representation**
-![Screenshot (6)](https://user-images.githubusercontent.com/79258081/236598110-b57dfad4-9b37-4034-acf0-1af3de8560fb.png)
+
+![Screenshot (6)](https://user-images.githubusercontent.com/79258081/236599822-0b5eb5ed-88a5-464d-8150-109488c6b310.png)
